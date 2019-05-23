@@ -15,9 +15,9 @@
 baseURL = "https://wangzaihuabin.github.io"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
-title = "Hugo tranquilpeak theme"
+title = "梦魇"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "hugo-tranquilpeak-theme"
+disqusShortname = "梦魇"
 # googleAnalytics = "UA-123-45"
 paginate = 7
 canonifyurls = true
@@ -36,7 +36,7 @@ canonifyurls = true
   job = "Development Engineer"
   location = "China"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  # gravatarEmail = "wangzaihuabin@live.com"
+  #gravatarEmail = "wangzaihuabin@live.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   picture = "/images/author.jpg"
@@ -76,7 +76,12 @@ canonifyurls = true
   name = "About"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   url = "/#about"
-
+[[menu.main]]
+  weight = 6
+  identifier = "email"
+  name = "Contact me"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file\"></i>"
+  url = "/#Contact"
 
 
 [params]
