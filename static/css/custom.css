@@ -1,0 +1,18 @@
+@media only screen and (min-width: 1280px) {
+    #sidebar[data-behavior="1"] {
+        width: 430px;
+        display: -webkit-flex;
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+    }
+
+    #main[data-behavior="1"] {
+        padding-top: 15px;
+        float: right;
+        width: calc(100% - 430px);
+    }
+}
