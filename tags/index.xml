@@ -6,9 +6,19 @@
     <description>Recent content in Tags on Hugo tranquilpeak theme</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Thu, 23 May 2019 23:20:18 +0800</lastBuildDate>
     
 	<atom:link href="https://wangzaihuabin.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>test</title>
+      <link>https://wangzaihuabin.github.io/tags/test/</link>
+      <pubDate>Thu, 23 May 2019 23:20:18 +0800</pubDate>
+      
+      <guid>https://wangzaihuabin.github.io/tags/test/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
