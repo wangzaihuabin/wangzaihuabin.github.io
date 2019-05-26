@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IOCP on 梦魇</title>
+    <link>https://wangzaihuabin.github.io/tags/iocp/</link>
+    <description>Recent content in IOCP on 梦魇</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 May 2019 16:52:06 +0800</lastBuildDate>
+    
+	<atom:link href="https://wangzaihuabin.github.io/tags/iocp/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>基于IOCP技术的网络服务器</title>
+      <link>https://wangzaihuabin.github.io/2019/05/%E5%9F%BA%E4%BA%8Eiocp%E6%8A%80%E6%9C%AF%E7%9A%84%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8/</link>
+      <pubDate>Sat, 25 May 2019 16:52:06 +0800</pubDate>
+      
+      <guid>https://wangzaihuabin.github.io/2019/05/%E5%9F%BA%E4%BA%8Eiocp%E6%8A%80%E6%9C%AF%E7%9A%84%E7%BD%91%E7%BB%9C%E6%9C%8D%E5%8A%A1%E5%99%A8/</guid>
+      <description>&lt;p&gt;网络通信模型中性能比较好的模型linux下有epoll, windows下则有IOCP. 前段时间一直想学习一下windows下的IOCP模型。在此记录一下学习过程中的各种问题。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
